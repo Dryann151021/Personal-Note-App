@@ -28,16 +28,20 @@ Aplikasi web sederhana untuk mencatat hal-hal penting sehari-hari. Bisa menambah
 ## Cara Pakai
 
 1. Clone repository:
+```Bash
 git clone https://github.com/Dryann151021/Personal-Note-App.git
-
+```
 2. Masuk ke folder project:
+```Bash
 cd Personal-Note-App
-
+```
 3. Install dependencies:
+```Bash
 npm install
-
+```
 4. Jalankan aplikasi:
+```Bash
 npm run dev
-
+```
 5. Buka browser di:
-http://localhost:5173
+[http://localhost:5173](http://localhost:5173)
